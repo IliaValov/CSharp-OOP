@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Key Revolver", "Key Revolver\Key Revolver.csproj", "{BC9520E8-16CD-4736-B921-5225B2B08D3E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sneaking", "Sneaking\Sneaking.csproj", "{C9364326-9F75-48CD-85A1-4CCA7B39FAE7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Crypto Blockchain", "Crypto Blockchain\Crypto Blockchain.csproj", "{70439155-6E78-4141-A749-7AA989B31801}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hit Listt", "Hit Listt\Hit Listt.csproj", "{20A0A045-64CF-4612-AFB9-7DC18E10B023}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC9520E8-16CD-4736-B921-5225B2B08D3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC9520E8-16CD-4736-B921-5225B2B08D3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC9520E8-16CD-4736-B921-5225B2B08D3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC9520E8-16CD-4736-B921-5225B2B08D3E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9364326-9F75-48CD-85A1-4CCA7B39FAE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9364326-9F75-48CD-85A1-4CCA7B39FAE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9364326-9F75-48CD-85A1-4CCA7B39FAE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9364326-9F75-48CD-85A1-4CCA7B39FAE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70439155-6E78-4141-A749-7AA989B31801}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70439155-6E78-4141-A749-7AA989B31801}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70439155-6E78-4141-A749-7AA989B31801}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70439155-6E78-4141-A749-7AA989B31801}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20A0A045-64CF-4612-AFB9-7DC18E10B023}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20A0A045-64CF-4612-AFB9-7DC18E10B023}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20A0A045-64CF-4612-AFB9-7DC18E10B023}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20A0A045-64CF-4612-AFB9-7DC18E10B023}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F4D7C620-415F-47CE-A50E-92EE931BFD3C}
+	EndGlobalSection
+EndGlobal
